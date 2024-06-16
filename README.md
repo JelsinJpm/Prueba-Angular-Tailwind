@@ -31,14 +31,6 @@ Para iniciar sesión, primero debes crear una cuenta. Navega a la página de reg
 
 Una vez registrado, navega a la página de inicio de sesión e ingresa tus credenciales. Si el inicio de sesión es exitoso, serás redirigido a la página principal.
 
-## Estructura del Proyecto
-- `src/`: Contiene el código fuente de la aplicación Angular.
-  - `app/`: Directorio principal de la aplicación.
-    - Componentes, servicios y otros archivos.
-  - `assets/`: Recursos estáticos como imágenes y archivos de estilo.
-- `angular.json`: Configuración del proyecto Angular.
-- `package.json`: Dependencias y scripts del proyecto.
-
 ## Contacto
 Jelsin Johan Parra Mosquera - +57 3105187834 - Jparramosquera@gmail.com
 
