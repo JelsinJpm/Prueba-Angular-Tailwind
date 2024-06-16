@@ -4,9 +4,4 @@
 
 .vscode/
 
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Tailwind CSS specific
 tailwind.config.js
