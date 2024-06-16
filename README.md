@@ -38,9 +38,13 @@ Proyecto en GitHub: https://github.com/JelsinJpm/Prueba-Angular-Tailwind
 
 # Imagenes
 ![image](https://github.com/JelsinJpm/Prueba-Angular-Tailwind/assets/103012739/ab8b9574-e0cf-4bf0-985b-1932567b5f55)
+
 ![image](https://github.com/JelsinJpm/Prueba-Angular-Tailwind/assets/103012739/14c8b3bd-8939-4871-ae7c-503960cfde1b)
-![image](https://github.com/JelsinJpm/Prueba-Angular-Tailwind/assets/103012739/ebb7d1f1-413e-4721-8158-482642c09d25)
-![image](https://github.com/JelsinJpm/Prueba-Angular-Tailwind/assets/103012739/f57469cb-b3cf-41c5-b104-5fbc56141c59)
+
+![image](https://github.com/JelsinJpm/Prueba-Angular-Tailwind/assets/103012739/27f92976-293f-4078-a184-543ac6b51ba4)
+
+![image](https://github.com/JelsinJpm/Prueba-Angular-Tailwind/assets/103012739/e4f6d5dc-2cb8-4194-b4e0-0792a3379820)
+
 
 
 
