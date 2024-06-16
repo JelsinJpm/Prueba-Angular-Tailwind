@@ -1,7 +1,7 @@
 # Prueba Técnica con Angular y Tailwind CSS
 
 ## Descripción
-Este proyecto es parte de una prueba técnica para demostrar mis habilidades en el desarrollo web utilizando Angular y Tailwind CSS.
+Este proyecto es parte de una prueba técnica para demostrar habilidades en el desarrollo web utilizando Angular y Tailwind CSS.
 
 ## Características Principales
 - Integración de Angular para la creación de componentes dinámicos.
@@ -9,7 +9,7 @@ Este proyecto es parte de una prueba técnica para demostrar mis habilidades en 
 - Implementación de rutas y navegación dentro de la aplicación Angular.
 
 ## Instalación
-1. Clona este repositorio: `git clone https://github.com/tuusuario/tuprojecto.git`
+1. Clona este repositorio: `https://github.com/JelsinJpm/Prueba-Angular-Tailwind.git`
 2. Instala las dependencias: `npm install`
 
 ## Ejecución
@@ -28,13 +28,7 @@ Este proyecto es parte de una prueba técnica para demostrar mis habilidades en 
 - `angular.json`: Configuración del proyecto Angular.
 - `package.json`: Dependencias y scripts del proyecto.
 
-## Contribución
-Contribuciones son bienvenidas. Para cambios mayores, por favor abre un issue primero para discutir lo que te gustaría cambiar.
-
-## Licencia
-MIT
-
 ## Contacto
-Tu Nombre - [@usuario](https://twitter.com/usuario) - email@example.com
+Jelsin Johan Parra Mosquera - +57 3105187834 - Jparramosquera@gmail.com
 
-Proyecto en GitHub: [https://github.com/tuusuario/tuprojecto](https://github.com/tuusuario/tuprojecto)
+Proyecto en GitHub: https://github.com/JelsinJpm/Prueba-Angular-Tailwind
